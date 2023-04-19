@@ -27,7 +27,7 @@ const App = () => {
 export default App;
 
 // import "./App.css";
-// import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+// import { BrowserRouter, Routes, Route, Link } from  "react-router-dom";
 // import Home from "./components/Home";
 // import About from "./components/About";
 // import Contact from "./components/Contact";
